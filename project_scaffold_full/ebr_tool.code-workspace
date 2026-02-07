@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.eol": "\n",
+    "editor.renderWhitespace": "boundary",
+    "markdown.preview.breaks": true
+  }
+}
