@@ -1,2 +1,0 @@
-# Pneumatics
-- Valves, regulators
